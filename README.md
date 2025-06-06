@@ -14,7 +14,7 @@
 - 🎓 **B.E. Computer Science** student at **P.S.R Engineering College**, Sivakasi (CGPA: 8.3)
 - 💻 Passionate about building real-world solutions using **Java**, **Spring Boot**, and the **MERN stack**
 - 📲 Developed Android apps and web platforms through internships & personal projects
-- 🎯 Solved **60+ LeetCode problems** and earned a **50-day streak** badge
+- 🎯 Solved **100+ LeetCode problems** and earned a **50-day streak** badge
 - 🚀 Eager to learn, collaborate, and build impactful software systems
 
 ---
